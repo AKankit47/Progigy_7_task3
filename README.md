@@ -90,5 +90,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Ankit Kumar**  
 Intermediate hacker and cybersecurity enthusiast  
-[LinkedIn Profile](www.linkedin.com/in/ankit-ak47)
+[LinkedIn Profile](https://www.linkedin.com/in/ankit-ak47/)
 
