@@ -29,7 +29,7 @@ The password is assessed based on:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ankitak47/Prodigy_7_task3.git
+    git clone https://github.com/AKankit47/Prodigy_7_task3.git
     cd Prodigy_7_task3
     ```
 2. Run the script:
